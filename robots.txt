@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://heavyparts.com.ar/wp-sitemap.xml
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
