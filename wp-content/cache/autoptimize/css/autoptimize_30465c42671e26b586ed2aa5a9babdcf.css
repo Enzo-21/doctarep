@@ -16020,3 +16020,10 @@ body.rtl #qlwapp .qlwapp-box .qlwapp-contact {
 #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before {
   font-family: 'entypo-fontello'
 }
+
+@media only screen and (max-width: 767px) {
+  .avia-slideshow.image_no_stretch li img {
+      width: 70%!important;
+      margin-right: 0!important;
+  }
+}
